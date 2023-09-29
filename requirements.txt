@@ -18,3 +18,4 @@ xformers
 demucs
 librosa
 gradio
+google-colab==1.0.0
